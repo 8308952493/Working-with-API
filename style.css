@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: initial;
+    
+    
+}
+.container{
+    width: 100vw;
+    min-height: 50vw;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.user{
+    width: 350px;
+    gap: 10px;
+    
+    
+    
+    margin: 10px;
+    background-color: whitesmoke;
+    
+    
+    
+}
+img{
+    width: 350px;
+    height: auto;    
+    
+    
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+}
